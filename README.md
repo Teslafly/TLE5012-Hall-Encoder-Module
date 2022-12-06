@@ -3,11 +3,11 @@ Breakout/mounting board for the TLE5012 hall encoder to use with the vesc motor 
 
 (Pictures are from my nearly identical as5047 encoder board)
 
-![encoder boards with both connector orentations](Pictures\encoder_pcbs.jpg )
-![top and bottom](Pictures\top-bottom-bare-populated.jpg )
-![example cables](Pictures\cable_options.jpg )
-![kitting hardware](Pictures\possible_kit.jpg )
-![schematic](Pictures\schematic.png )
+![encoder boards with both connector orentations](Pictures/encoder_pcbs.jpg )
+![top and bottom](Pictures/top-bottom-bare-populated.jpg )
+![example cables](Pictures/cable_options.jpg )
+![kitting hardware](Pictures/possible_kit.jpg )
+![schematic](Pictures/schematic.png )
 
 # Mounting:
 - The mounting holes fit an m3 screw and are 16mm apart center to center.
