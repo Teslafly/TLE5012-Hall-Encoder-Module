@@ -857,12 +857,12 @@
     (uuid cb4b209b-6263-4d17-a67c-7cc7440c0dda)
   )
   (text "https://www.mouser.com/datasheet/2/196/TLE5012_FDS_V_1.0-99371.pdf"
-    (at 191.135 56.515 0)
+    (at 191.135 56.515 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d8e6d2dd-f5f1-487e-87d5-fbc96998cf89)
   )
   (text "datasheet recommends 470 ohm resistor on data line"
-    (at 92.075 78.105 0)
+    (at 92.075 78.105 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e3fabc4b-5ef6-4ccf-9e70-81cb1e029e36)
   )
