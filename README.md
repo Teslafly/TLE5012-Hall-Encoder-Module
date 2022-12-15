@@ -1,7 +1,7 @@
 # TLE5012-Hall-Encoder-Module
 Breakout/mounting board for the TLE5012 hall encoder to use with the vesc motor controller project.
 
-(Pictures are from my nearly identical as5047 encoder board)
+(Pictures are from my nearly identical as5047 encoder board at https://github.com/Teslafly/AS5047-Hall-Encoder-Module)
 
 ![encoder boards with both connector orentations](Pictures/encoder_pcbs.jpg )
 ![top and bottom](Pictures/top-bottom-bare-populated.jpg )
